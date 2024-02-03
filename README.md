@@ -1,30 +1,8 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>date</title>
-</head>
+<!DOCTYPE html>
+<html>
 <body>
-    hi iam sourabh
-    <script "use strict";
 
-let registrationNo = prompt( "enter your registration no" );
-if ( ( registrationNo >= "000194" ) && ( registrationNo <= "002566" ) ){
-    alert( "The date for collecting your registration is 13/06/2022" )
-} 
-     else if ( ( registrationNo >="002588") && ( registrationNo <= "004449") ) {
-    alert ("The date for collecting your registration is 15/06/2022")
-}
-    else if ( ( registrationNo >="004454") && ( registrationNo <= "007452") ) {
-    alert ("The date for collecting your registration is 16/06/2022")
-}
-else if ( ( registrationNo >="007492") && ( registrationNo <= "010327") ) {
-    alert ("The date for collecting your registration is 17/06/2022")
-}
-else if ( ( registrationNo >="010388") && ( registrationNo <= "020570") ) {
-    alert ("The date for collecting your registration is 18/06/2022")
-}  </script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PbvOMWqvXNQ?si=2SxakWeF9BpErOtf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </body>
 </html>
+
